@@ -1,0 +1,9 @@
+1. Make sure you focus on test coverage being efficient and make sure your comments make sense for code reviews. 
+
+2. I think this code review is good: https://codereview.stackexchange.com/questions/287936/image-processing-application-in-c
+I think this because they provide clear sections of code that are problematic and suggest alternatives that the programmer can then implement. They 
+are also very direct in which specific functionality is problematic. 
+
+3. I think this is not a great code review: https://codereview.stackexchange.com/questions/280336/generic-function-accepting-object-and-validators-for-this-objects-fields
+I think this because the review is very short and not as direct using words such as "could create" creates confusion for the programmer.
+
